@@ -94,3 +94,20 @@ It demonstrates practical skills in:
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this project.
 
+
+---
+
+
+##📧 Contact
+
+For inquiries or support, feel free to reach out:
+
+    Authors: 
+    Wasif Asad Alvi
+    Md. Tamjid Hossain
+    Rifat Talukdar
+    Md. Tanziul Haque
+    Email: [wasifasad35@gmail.com]
+    GitHub: WasifAsad
+
+
