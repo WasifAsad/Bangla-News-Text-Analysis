@@ -34,12 +34,19 @@ It demonstrates practical skills in:
 - **Language:** R
 - **Libraries:**  
   - `rvest` – Web scraping  
-  - `tidyverse` – Data wrangling  
+  - `readr` – Reading data files  
+  - `dplyr` – Data manipulation  
+  - `purrr` – Functional programming tools  
+  - `tidyr` – Data tidying  
+  - `stringr` – String processing  
   - `tm` – Text mining  
   - `tokenizers` – Tokenization  
-  - `wordcloud` – Word frequency visualization  
+  - `wordcloud` – Word cloud generation  
+  - `RColorBrewer` – Color palettes for visualizations  
   - `topicmodels` – LDA topic modeling  
-  - `ggplot2` & `tidytext` – Data visualization  
+  - `tidytext` – Text mining using tidy data principles  
+  - `ggplot2` – Data visualization
+
 
 ---
 
@@ -54,8 +61,9 @@ It demonstrates practical skills in:
 
 3. Install required libraries:
       ```bash
-      install.packages(c("rvest", "tidyverse", "tm", "tokenizers", "wordcloud", "topicmodels", "tidytext", "ggplot2"))
-4. Run script
+      install.packages(c("rvest", "readr", "dplyr", "purrr", "tidyr", "stringr","tm", "tokenizers", "wordcloud", "RColorBrewer","topicmodels", "tidytext", "ggplot2"))
+
+4. Run script : Bangla-Text-Analysis
 
 
 ---
