@@ -85,3 +85,12 @@ It demonstrates practical skills in:
 <img width="1000" height="800" alt="barplot_topic4" src="https://github.com/user-attachments/assets/99c3f1e3-9a3d-4937-8c75-901014f2118a" />
 <img width="1000" height="800" alt="barplot_topic5" src="https://github.com/user-attachments/assets/ddb5dbd3-abec-4414-8bc1-e7df75d97401" />
 
+
+
+---
+
+
+## 📜 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this project.
+
