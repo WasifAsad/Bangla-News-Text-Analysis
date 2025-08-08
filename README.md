@@ -63,7 +63,12 @@ It demonstrates practical skills in:
       ```bash
       install.packages(c("rvest", "readr", "dplyr", "purrr", "tidyr", "stringr","tm", "tokenizers", "wordcloud", "RColorBrewer","topicmodels", "tidytext", "ggplot2"))
 
-4. Run script : Bangla-Text-Analysis
+4. Run script : Bangla-Text-Analysis.R
+
+### N.B. :
+- You can change your news portal by replacing the website in base_url.
+- Also change the output directories (Word Cloud, .csv file, etc.) according to your own folder paths.
+- Also you can add other Bangla stop words.
 
 
 ---
