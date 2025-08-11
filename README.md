@@ -105,7 +105,7 @@ For inquiries or support, feel free to reach out:
     Wasif Asad Alvi  
     Md. Tamjid Hossain  
     Rifat Talukdar  
-    Md. Tanziul Haque  
+    Md. Tanziul Haque
     Email: [wasifasad35@gmail.com]  
     GitHub: <a href=https://github.com/WasifAsad>WasifAsad </a> 
 
